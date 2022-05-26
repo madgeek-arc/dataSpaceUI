@@ -1,6 +1,6 @@
 import {Component} from "@angular/core";
-import {LandingPageService} from "../../../../../../../intelcomp-ui/src/catalogue-ui/services/landing-page.service";
-import {LandingPageComponent} from "../../../../../../../intelcomp-ui/src/catalogue-ui/pages/landingpages/dataset/landing-page.component";
+import {LandingPageService} from "../../../../catalogue-ui/services/landing-page.service";
+import {LandingPageComponent} from "../../../../catalogue-ui/pages/landingpages/dataset/landing-page.component";
 
 declare var UIkit: any;
 

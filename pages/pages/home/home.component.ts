@@ -8,7 +8,7 @@ import {SearchQuery} from "../../domain/search-query";
   templateUrl: './home.component.html',
 })
 export class HomeComponent {
-  title = 'catalogue-ui-ui';
+  title = 'catalogue-ui';
 
   searchForm: FormGroup;
 
