@@ -6,7 +6,7 @@ import {AuthenticationService} from "../../../services/authentication.service";
 import {Subscriber} from "rxjs";
 
 @Component({
-  selector: 'pages-top-menu-dashboard',
+  selector: 'app-top-menu-dashboard',
   templateUrl: 'top-menu-dashboard.component.html',
   styleUrls: ['../top-menu.component.css']
 })

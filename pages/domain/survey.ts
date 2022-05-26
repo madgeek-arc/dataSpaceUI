@@ -1,4 +1,4 @@
-import {Section} from "../../../../../intelcomp-ui/src/catalogue-ui/domain/dynamic-form-model";
+import {Section} from "../../catalogue-ui/domain/dynamic-form-model";
 
 export class Survey {
   id: string;
