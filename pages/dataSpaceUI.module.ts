@@ -52,6 +52,9 @@ import {CommonModule} from "@angular/common";
     UserService,
     SurveyService
   ],
+  exports: [
+    IntelcompFooterComponent
+  ],
   bootstrap: [DataSpaceUIComponent]
 })
 
